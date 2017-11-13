@@ -25,9 +25,10 @@ Entrega de un modelo funcional físico que represente una casa inteligente con l
 * Todos los integrantes para ser considerados en la calificación del proyecto deben de tener por lo menos 3 commits integrados al código final con mas de 100 líneas de código funcional cada uno
 
 ## Evaluación
+| Rubro | Puntaje |
 |---|---|
-| Buenas practicas en código:| 15%|
-| Buenas practicas en repo:| 15%|
-| Funciona:| 40%|
-| Espesificaciones:| 30%|
-| Estética:| 10%* |
+| Buenas practicas en código: | 15%|
+| Buenas practicas en repo: | 15%|
+| Funciona: | 40%|
+| Espesificaciones: | 30%|
+| Estética: | 10%* |
